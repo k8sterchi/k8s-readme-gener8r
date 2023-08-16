@@ -1,7 +1,7 @@
 # README Generator
 
 ## Description
-command line generated README
+Command line application
 
 ## Table of Contents
 - [Installation](#installation)
@@ -15,12 +15,12 @@ command line generated README
 instructions go here
 
 ## Usage
-usage info here
+usage informatino goes here
 
 ## License
 ![License](https://img.shields.io/badge/License-MIT%20License-brightgreen)  
 [License](./LICENSE)
-undefined
+This application is covered under the [MIT License](./LICENSE) license.
 
 ## Contributing
 undefined
