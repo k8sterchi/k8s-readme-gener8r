@@ -1,7 +1,7 @@
-# README Generator
+# README Gener8r
 
 ## Description
-Command line application
+command line application with node
 
 ## Table of Contents
 - [Installation](#installation)
@@ -12,10 +12,10 @@ Command line application
 - [Questions](#questions)
 
 ## Installation
-instructions go here
+install instructions here
 
 ## Usage
-usage informatino goes here
+usage info here
 
 ## License
 ![License](https://img.shields.io/badge/License-MIT%20License-brightgreen)  
@@ -29,5 +29,5 @@ undefined
 undefined
 
 ## Questions
-GitHub: [undefined](https://github.com/undefined)  
+GitHub: [k8sterchi](https://github.com/k8sterchi)  
 Email: undefined

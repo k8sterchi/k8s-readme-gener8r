@@ -58,7 +58,7 @@ ${data.contribution}
 ${data.tests}
 
 ## Questions
-GitHub: [${data.username}](https://github.com/${data.username})  
+GitHub: [${data.githubUsername}](https://github.com/${data.githubUsername})  
 Email: ${data.email}
 `;
 }

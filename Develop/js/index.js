@@ -46,6 +46,11 @@ const questions = [
             // Add more license options if time allows... 
         ],
     },
+    {
+      type: 'input',
+      name: 'githubUsername',
+      message: 'Enter your GitHub username:',
+  },
   ];
 
  // Use Inquirer to prompt the user for input
