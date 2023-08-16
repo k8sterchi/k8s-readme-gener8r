@@ -1,7 +1,7 @@
-# Generator Test with License question feature
+# README generator 
 
 ## Description
-command line readme generator
+command line app
 
 ## Table of Contents
 - [Installation](#installation)
@@ -18,7 +18,7 @@ instructions go here
 usage info goes here
 
 ## License
-undefined  
+![License](https://img.shields.io/badge/License-MIT%20License-brightgreen)  
 undefined
 undefined
 
