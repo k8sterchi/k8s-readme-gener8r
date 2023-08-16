@@ -35,6 +35,17 @@ const questions = [
         name: 'testInstructions',
         message: 'Enter the test instructions for your project:',
       },
+      {
+        type: 'list', 
+        name: 'license',
+        message: 'Choose a license for your application:',
+        choices: [
+            'MIT License',
+            'Apache License 2.0',
+            'GNU GPLv3',
+            // Add more license options if time allows... 
+        ],
+    },
   ];
 
  // Use Inquirer to prompt the user for input

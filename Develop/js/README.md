@@ -1,7 +1,7 @@
-# README Generator
+# Generator Test with License question feature
 
 ## Description
-Command line application that creates a readme file.
+command line readme generator
 
 ## Table of Contents
 - [Installation](#installation)
@@ -12,10 +12,10 @@ Command line application that creates a readme file.
 - [Questions](#questions)
 
 ## Installation
-these are the instrucions
+instructions go here
 
 ## Usage
-this is the usage info for the project
+usage info goes here
 
 ## License
 undefined  
