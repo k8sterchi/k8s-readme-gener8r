@@ -27,7 +27,7 @@ const questions = [
       },
       {
         type: 'input',
-        name: 'contributionGuidlines',
+        name: 'contributionGuidelines',
         message: 'Enter the contribution guidlines for your project:',
       },
       {
@@ -51,6 +51,11 @@ const questions = [
       name: 'githubUsername',
       message: 'Enter your GitHub username:',
   },
+  {
+    type: 'input',
+    name: 'email',
+    message: 'Enter your email address:',
+},
   ];
 
  // Use Inquirer to prompt the user for input

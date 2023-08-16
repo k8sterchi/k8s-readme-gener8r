@@ -52,14 +52,15 @@ ${renderLicenseLink(data.license)}
 ${renderLicenseSection(data.license)}
 
 ## Contributing
-${data.contribution}
+${data.contributionGuidelines}
 
 ## Tests
-${data.tests}
+${data.testInstructions}
 
 ## Questions
 GitHub: [${data.githubUsername}](https://github.com/${data.githubUsername})  
 Email: ${data.email}
+Feel free to reach out to me at ${data.email} with any additional questions.
 `;
 }
 

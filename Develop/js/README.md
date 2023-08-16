@@ -1,7 +1,7 @@
-# README Gener8r
+# README Generator
 
 ## Description
-command line application with node
+Command line application that generates a README.md file to use for future applications.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -12,10 +12,10 @@ command line application with node
 - [Questions](#questions)
 
 ## Installation
-install instructions here
+type installation instructions here.
 
 ## Usage
-usage info here
+type usage information here.
 
 ## License
 ![License](https://img.shields.io/badge/License-MIT%20License-brightgreen)  
@@ -23,11 +23,12 @@ usage info here
 This application is covered under the [MIT License](./LICENSE) license.
 
 ## Contributing
-undefined
+type contribution guidelines here. 
 
 ## Tests
-undefined
+type test instructions here. 
 
 ## Questions
 GitHub: [k8sterchi](https://github.com/k8sterchi)  
-Email: undefined
+Email: myemail@email.com
+Feel free to reach out to me at myemail@email.com with any additional questions.
