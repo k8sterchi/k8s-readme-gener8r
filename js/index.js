@@ -77,11 +77,16 @@ function writeToFile(fileName, data) {
     });
 }
 
-// Function to initialize app
-function init() {
-    // Call inquirer prompts and other necessary functions here
-}
+// Commented out the function below because it repeats the user prompts in the command line.
+// function init() {
+//   // Use Inquirer to prompt the user for input
+//   inquirer.prompt(questions).then((answers) => {
+//       // Now you have the user's answers, and you can proceed to generate the README content
+//       const readmeContent = generateMarkdown(answers); // Generate the README content
+//       writeToFile('README.md', readmeContent); // Write content to README.md
+//       console.log('README.md successfully generated!');
+//   });
+// }
 
-
-// Function call to initialize app
-init();
+// // Function call to initialize app
+// init();
