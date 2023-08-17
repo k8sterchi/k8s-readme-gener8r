@@ -3,6 +3,8 @@
 ## Description
 A command-line application that quickly and easily generates a README file from a user's input.
 
+[Click Here](https://github.com/k8sterchi/k8s-readme-gener8r) to visit my GitHub repository.
+
 ## Table of Contents
 - [Installation](#installation)
 - [User Story](#user-story)
