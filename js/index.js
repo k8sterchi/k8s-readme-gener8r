@@ -3,7 +3,7 @@ const inquirer = require("inquirer"); // handles the collection of user input
 const fs = require('fs'); // built-in node.js module, handles writing the gernerated README content to a file
 const generateMarkdown = require('./generateMarkdown'); // handles how the content is formatted
 
-// TODO: Create an array of questions for user input
+// Array of questions for user input
 const questions = [
     {
       type: 'input',
