@@ -50,7 +50,16 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
 ## Preview
-TODO: add screenshots of the appliction
+From the integrated terminal in the index.js file, run: `node index.js`  
+
+User can begin answering the prompted questions.
+
+Image below shows the beginning of the process, highlighted in pink:
+![alt text](./images/node_index_js.png)
+
+Once user has answered all of the prompted questions, a message will appear to inform the user that their README.md has been successfully created. 
+
+![alt text](./images/input_success.png)
 
 ## Demo
 TODO: add video link demo here
