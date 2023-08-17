@@ -79,7 +79,7 @@ TODO: add video link demo here
 ## Resources:
 [The starter code was cloned from this repository.](https://github.com/coding-boot-camp/potential-enigma)
 
-[MDN](https://developer.mozilla.org/en-US/docs/Glossary/Node.js) and my tutor last week, Dane Shrewsbury were all very helpful in understanding how to work with node modules to create this application. 
+[MDN](https://developer.mozilla.org/en-US/docs/Glossary/Node.js) and my tutor last week, Dane Shrewsbury, were all very helpful in understanding how to work with node modules to create this application. 
 
 ## License:
 ![License](https://img.shields.io/badge/License-MIT%20License-brightgreen)  
